@@ -1,0 +1,19 @@
+{
+  "name": "lambda-calculus",
+  "version": "1.0.0",
+  "description": "A JavaScript implementation of the lambda calculus",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanroane/lambda-calculus.git"
+  },
+  "author": "Evan Roane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanroane/lambda-calculus/issues"
+  },
+  "homepage": "https://github.com/evanroane/lambda-calculus#readme"
+}
